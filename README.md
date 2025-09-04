@@ -14,6 +14,7 @@
 - Inglês: Intermediário (B1)
 ---
 ### 🎓cursos
+- Desvendando a descabornização
 - Curso Técnico em Desenvolvimento de Sistemas
 - Curso de programação em nuvem
 - Cisco
@@ -50,3 +51,4 @@
 - Participar e conversar com comunidades de programação
 - Ler livros
 - Viajar e conhecer novas culturas  
+
