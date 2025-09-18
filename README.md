@@ -53,5 +53,5 @@
 - Viajar e conhecer novas culturas  
 ---
 ### Meus Projetos👊
-- [EcoSapiens](Sk4TV/Hugo/Conecte_com_seu_pet.pdf)
-- [PetConecta](Sk4TV/Hugo/Home.pdf)
+- [EcoSapiens](./Home.pdf)
+- [PetConecta](./Conecte_com_seu_pet.pdf)
